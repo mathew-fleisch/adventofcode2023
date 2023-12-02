@@ -12,7 +12,7 @@ cd day01
 # Example
 ./day01_part1.sh
 
-# Read data
+# Real data
 ./day01_part1.sh ./example_part1.txt
 
 
@@ -21,7 +21,7 @@ cd day01
 # Example
 ./day01_part2.sh
 
-# Read data
+# Real data
 ./day01_part2.sh ./example_part2.txt
 
 ```
